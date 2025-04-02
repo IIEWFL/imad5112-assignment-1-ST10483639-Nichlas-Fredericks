@@ -4,6 +4,7 @@
 https://github.com/IIEWFL/imad5112-assignment-1-ST10483639-Nichlas-Fredericks.git
 
 video link***
+https://youtu.be/8jsk2pEnEtg
 
 
 The meal suugestion app is designed to give users convienient and personalised meal suggestions based on the time of day they enter. In todays fast paced world, people often struggle with deciding on what to eat, especially cosidering the level of healthy nutrients you recieve. This app aims to cut down on this indecisiveness by providing the user with the meal
