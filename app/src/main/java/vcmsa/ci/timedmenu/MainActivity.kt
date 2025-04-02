@@ -60,11 +60,11 @@ class MainActivity : AppCompatActivity() {
 
     private fun suggestFood(userInput: String): Any {
         return when (userInput) {
-            "morning" -> "Breakfast"
-            "mid-morning" -> "Brunch"
-            "afternoon" -> "Lunch"
-            "mid-afternoon" -> "Snack"
-            "Evening" -> "Dinner"
+            "morning" -> "Breakfast: Bacon and Eggs"
+            "mid-morning" -> "Brunch : A club sandwich"
+            "afternoon" -> "Lunch: Fish and Chips"
+            "mid-afternoon" -> "Snack: Chips and sweets"
+            "Evening" -> "Dinner: Steak and vegatables"
 
             else -> "Invalid"
 
