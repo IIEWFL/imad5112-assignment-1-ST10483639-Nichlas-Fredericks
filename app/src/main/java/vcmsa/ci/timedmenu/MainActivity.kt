@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
             "mid-morning" -> "Brunch : A club sandwich"
             "afternoon" -> "Lunch: Fish and Chips"
             "mid-afternoon" -> "Snack: Chips and sweets"
-            "Evening" -> "Dinner: Steak and vegatables"
+            "evening" -> "Dinner: Steak and vegatables"
 
             else -> "Invalid"
 
