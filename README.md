@@ -13,3 +13,7 @@ the design used for this app is a pretty simplistic one, it uses a LinearLsyout 
 
 as for the utilisation of GitHub and GitHub actions, i used the Git Bash method by using code such as , git init, git push, and Git pull. Allowing me to upload my app onto GitHub.
 
+
+
+![Screenshot 2025-04-02 202723](https://github.com/user-attachments/assets/71621478-66f8-484f-a963-b7505d7eda6d)
+![Screenshot 2025-04-02 202829](https://github.com/user-attachments/assets/f7160dbf-8157-4c00-84a4-08417b6b4c4a)
